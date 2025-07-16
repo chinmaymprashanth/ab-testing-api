@@ -62,8 +62,8 @@ Steps:
    * Treatment: \~11.88%
 2. Compute pooled conversion rate.
 3. Calculate Standard Error (SE).
-4. Compute z-score:
-5. Compute p-value:
+4. Compute z-score.
+5. Compute p-value.
    where $\Phi$ is the CDF of the standard normal distribution.
 
 ---
