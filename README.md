@@ -63,16 +63,7 @@ Steps:
 2. Compute pooled conversion rate.
 3. Calculate Standard Error (SE).
 4. Compute z-score:
-
-   $$
-   z = \frac{p_t - p_c}{SE}
-   $$
 5. Compute p-value:
-
-   $$
-   p = 2 \times (1 - \Phi(|z|))
-   $$
-
    where $\Phi$ is the CDF of the standard normal distribution.
 
 ---
